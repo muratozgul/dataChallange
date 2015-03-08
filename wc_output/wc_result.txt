@@ -1,0 +1,14 @@
+Get	4
+Make	8
+So	4
+Who	8
+a	1
+asd	28
+big	1
+call	1
+every	8
+everyone	4
+holler	4
+meeting	1
+out	8
+shout	8
